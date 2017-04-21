@@ -1,0 +1,19 @@
+[sendemail]
+        suppresscc = all 
+        smtpserver = smtp-na.wrs.com
+        from = Dengke Du<dengke.du@windriver.com>
+[user]
+        email = dengke.du@windriver.com
+        name = Dengke Du
+[core]
+        editor = vim 
+[alias]
+        co = checkout
+        cp = cherry-pick
+        st = status
+        br = branch
+[wrgit]
+        username = ddu 
+[diff]
+        renames = copies
+
