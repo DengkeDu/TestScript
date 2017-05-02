@@ -85,6 +85,7 @@
 
     php-mysqli.php
 
+```
    <?php
      echo "<br>php mysqli testing:<br>\n";
      // Connecting, selecting database
@@ -119,6 +120,7 @@
      mysqli_close($link);
 
    ?>
+```
 
 ## 测试
 
